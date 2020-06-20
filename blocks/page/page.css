@@ -1,0 +1,28 @@
+.page {
+	background-color: #2A2C2F;
+	margin: 0 auto;
+}
+
+@media (min-device-width: 320px) {
+	.page {
+		width: 320px;
+	}
+}
+
+@media (min-width: 768px) {
+	.page {
+		width: 768px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.page {	
+		width: 1024px;
+	}
+}
+
+@media (min-width: 1280px) {
+	.page {
+		width: 1280px;
+	}
+}

@@ -1,0 +1,32 @@
+.lead__gpoup {
+	background: url("../../../images/group.svg") no-repeat;
+	background-size: contain;
+	width: 95.3%;
+	position: absolute;
+	z-index: 2;
+	margin: 9% 2.4% 0;
+}
+
+@media (min-device-width: 320px) {
+	.lead__gpoup {
+		height: 85px;
+	}
+}
+
+@media (min-width: 768px) {
+	.lead__gpoup {
+		height: 205px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.lead__gpoup{	
+		height: 248px;
+	}
+}
+
+@media (min-width: 1280px) {
+	.lead__gpoup {
+		height: 263px;
+	}
+}

@@ -1,0 +1,14 @@
+@media (min-device-width: 320px) {
+	.footer__list {
+		padding-left: 0;
+	}
+}
+
+@media (min-width: 768px) {
+	.footer__list {
+		padding-left: 18px;
+	}
+	.footer__list:first-child {
+		padding-left: 0;
+	}
+}
