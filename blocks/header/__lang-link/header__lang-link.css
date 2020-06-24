@@ -1,7 +1,6 @@
 .header__lang-link {
 	text-decoration: none;
 	color: white;
-	font-family: "Inter";
 }
 
 @media (min-device-width: 320px) {

@@ -1,7 +1,4 @@
 .lead__image {
-	background: url("../../../images/image.png") no-repeat;
-	background-size: contain;
-	padding-bottom: 62.5%;
 	width: 100%;
 }
 
