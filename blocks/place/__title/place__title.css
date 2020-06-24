@@ -1,5 +1,5 @@
 .place__title {
-/*	grid-area: title;*/
+	grid-area: title;
 	color: white;
 	font-family: "Inter-Black";
 }

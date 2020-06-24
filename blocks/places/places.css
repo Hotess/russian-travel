@@ -6,20 +6,21 @@
 
 @media (min-width: 768px) {
 	.places {
-		min-width: 720px;
-		margin: 88px auto 0;
+		width: 720px;
+		margin: 88px 3.2% 0;
 	}
 }
 
 @media (min-width: 1024px) {
 	.places {
 		min-width: 928px;
-		margin-top: 92px;
+		margin: 92px 4.8% 0;
 	}
 }
 
 @media (min-width: 1280px) {
 	.places {
 		min-width: 984px;
+		margin: 92px 11.5% 0;
 	}
 }
