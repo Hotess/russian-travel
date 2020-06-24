@@ -1,5 +1,6 @@
 .place__paragraph {
-	grid-area: paragraph;
+	font-family: "Inter";
+/*	grid-area: paragraph;*/
 	color: white;
 }
 

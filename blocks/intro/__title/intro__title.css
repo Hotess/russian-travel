@@ -1,6 +1,7 @@
 .intro__title {
 	color: white;
 	margin: 0;
+	font-family: "Inter-Black";
 }
 
 @media (min-device-width: 320px) {

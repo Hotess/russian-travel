@@ -7,7 +7,6 @@
 
 .place {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(min-content, max-content));
 }
 
 @media (min-device-width: 320px) {
@@ -37,6 +36,7 @@
 		grid-template-columns: 440px;
 	}
 }
+
 
 @media (min-width: 1280px) {
 	.place {

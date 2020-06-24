@@ -1,8 +1,0 @@
-.lead__kalegin-michail {
-	background: url("../../../images/kalegin-michail.png") no-repeat;
-	background-size: contain;
-/*	width: calc(100% - (100% / 100) * 2);*/
-	width: 100%;
-	height: 100%;
-	position: absolute;
-}

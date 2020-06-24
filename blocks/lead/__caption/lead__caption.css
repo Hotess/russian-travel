@@ -3,6 +3,8 @@
 	line-height: 14px;
 	color: white;
 	letter-spacing: 0.15em;
+	font-family: "Inter";
+	align-self: flex-start;
 }
 
 @media (min-device-width: 320px) {
@@ -11,7 +13,7 @@
 	}
 }
 
-@media (min-width: 768px) {
+@media (min-device-width: 768px) {
 	.lead__caption {
 		margin-left: 24px;
 	}
@@ -19,6 +21,6 @@
 
 @media (min-width: 1024px) {
 	.lead__caption {	
-		margin-left: 0;
+		margin-left:  0;
 	}
 }

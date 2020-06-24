@@ -5,7 +5,6 @@
 @import url("./__list/_active/header__list_active.css");
 
 .header {
-	min-width: 288px;
 	max-width: 1184px;
 	display: flex;
 	justify-content: space-between;
