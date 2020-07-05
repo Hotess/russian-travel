@@ -1,4 +1,4 @@
-# Проект 3: [о путешествии по России](https://hotess.github.io/russian-travel/)
+# Проект: [Путешествия по России](https://hotess.github.io/russian-travel/)
 
 Описание проекта
 --------------------
